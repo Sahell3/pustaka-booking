@@ -13,8 +13,7 @@
         <header>
             <hgroup>
                 <h1>RentalBuku.net</h1>
-                <h3>Membuat Template Sederhana dengan
-                    CodeIgniter</h3>
+                <h3>Membuat Template Sederhana dengan CodeIgniter</h3>
             </hgroup>
             <nav>
                 <ul>
